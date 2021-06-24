@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "背景皮肤",
+  "usingComponents": {
+    "card-swiper": "/components/helang-cardSwiper/helang-cardSwiper"
+  }
+}

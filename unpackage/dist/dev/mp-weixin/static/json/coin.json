@@ -1,0 +1,208 @@
+{
+	"data": [{
+			"name": "彩蛋系列",
+			"guid": 1,
+			"list": [{
+				"id": 520,
+				"name": "520",
+				"value": "love",
+				"status": true,
+				"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/love_back.png"
+			},
+			{
+				"id": 530,
+				"name": "民国银元",
+				"value": "minguo1911",
+				"status": true,
+				"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/minguo1911_back.png"
+			},
+			{
+				"id": 540,
+				"name": "西方龙",
+				"value": "dragon",
+				"status": true,
+				"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/dragon_back.png"
+			}
+			]
+		},
+		{
+			"name": "十二生肖系列",
+			"guid": 2,
+			"list": [{
+					"id": 101,
+					"name": "鼠",
+					"value": "2020shu",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/2020shu_back.png"
+				},
+				{
+					"id": 102,
+					"name": "猪",
+					"value": "2019zhu",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/2019zhu_back.png"
+				},
+				{
+					"id": 103,
+					"name": "狗",
+					"value": "2018gou",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/2018gou_back.png"
+				},
+				{
+					"id": 104,
+					"name": "鸡",
+					"value": "2017ji",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/2017ji_back.png"
+				},
+				{
+					"id": 105,
+					"name": "猴",
+					"value": "2016hou",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/2016hou_back.png"
+				},
+				{
+					"id": 106,
+					"name": "羊",
+					"value": "2015yang",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/2015yang_back.png"
+				},
+				{
+					"id": 107,
+					"name": "马",
+					"value": "2014ma",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/2014ma_back.png"
+				},
+				{
+					"id": 108,
+					"name": "蛇",
+					"value": "2013she",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/2013she_back.png"
+				},
+				{
+					"id": 109,
+					"name": "龙",
+					"value": "2012long",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/2012long_back.png"
+				},
+				{
+					"id": 110,
+					"name": "兔",
+					"value": "2011tu",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/2011tu_back.png"
+				},
+				{
+					"id": 111,
+					"name": "虎",
+					"value": "2010hu",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/2010hu_back.png"
+				},
+				{
+					"id": 112,
+					"name": "牛",
+					"value": "2009niu",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/2009niu_back.png"
+				}
+			]
+		},
+		{
+			"name": "十二星座系列",
+			"guid": 3,
+			"list": [{
+					"id": 201,
+					"name": "白羊座",
+					"value": "baiyang",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/baiyang_back.png"
+				},
+				{
+					"id": 202,
+					"name": "金牛座",
+					"value": "jinniu",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/jinniu_back.png"
+				},
+				{
+					"id": 203,
+					"name": "双子座",
+					"value": "shuangzi",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/shuangzi_back.png"
+				},
+				{
+					"id": 204,
+					"name": "巨蟹座",
+					"value": "juxie",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/juxie_back.png"
+				},
+				{
+					"id": 205,
+					"name": "狮子座",
+					"value": "shizi",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/shizi_back.png"
+				},
+				{
+					"id": 206,
+					"name": "处女座",
+					"value": "chunv",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/chunv_back.png"
+				},
+				{
+					"id": 207,
+					"name": "天秤座",
+					"value": "tianping",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/tianping_back.png"
+				},
+				{
+					"id": 208,
+					"name": "天蝎座",
+					"value": "tianxie",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/tianxie_back.png"
+				},
+				{
+					"id": 209,
+					"name": "射手座",
+					"value": "sheshou",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/sheshou_back.png"
+				},
+				{
+					"id": 210,
+					"name": "摩羯座",
+					"value": "mojie",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/mojie_back.png"
+				},
+				{
+					"id": 211,
+					"name": "水瓶座",
+					"value": "shuiping",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/shuiping_back.png"
+				},
+				{
+					"id": 212,
+					"name": "双鱼座",
+					"value": "shuangyu",
+					"status": true,
+					"src": "https://cdn.jsdelivr.net/gh/unilei/cdn@2.1/coin/shuangyu_back.png"
+				}
+			]
+		}
+	]
+
+}

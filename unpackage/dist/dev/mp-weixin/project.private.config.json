@@ -1,0 +1,36 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/setting/setting",
+          "pathName": "pages/setting/setting",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/setting/coinskin",
+          "pathName": "pages/setting/coinskin",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/setting/bgCover",
+          "pathName": "pages/setting/bgCover",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

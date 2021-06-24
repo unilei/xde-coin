@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/setting/setting",
+    "pages/setting/coinskin",
+    "pages/setting/coinaudio",
+    "pages/setting/bgCover",
+    "pages/easteregg/easteregg"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#0aa0a8",
+    "navigationBarTitleText": "来抛硬币",
+    "backgroundColor": "#f4f5f6"
+  },
+  "tabBar": {
+    "color": "#FFFFFF",
+    "selectedColor": "#000000",
+    "borderStyle": "black",
+    "backgroundColor": "#0aa0a8",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/img/money-w.png",
+        "selectedIconPath": "static/img/money-b.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/setting/setting",
+        "iconPath": "static/img/setting-w.png",
+        "selectedIconPath": "static/img/setting-b.png",
+        "text": "设置"
+      }
+    ]
+  },
+  "uniStatistics": {
+    "enable": false
+  },
+  "usingComponents": {}
+}
